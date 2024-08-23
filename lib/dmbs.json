@@ -1,7 +1,8 @@
 {
   "ua": "",
   "homeUrl": "https://dm84.tv",
-  "cateNode": "//ul[contains(@class,'nav_row')]/li/a[contains(@href, '.html')]",
+  //"cateNode": "//ul[contains(@class,'nav_row')]/li/a[contains(@href, '.html')]",
+  "cateNode": "(//div[contains(@class, 'btn_group')]/a[contains(@href, '.html')])|(//ul[contains(@class,'nav_row')]/li/a[contains(@href, '.html')])",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/list-(\\d+).html",
