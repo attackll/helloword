@@ -1,6 +1,6 @@
 {
-  //"spider": "./hw.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
-  "spider": "./xyq.jar",
+  "spider": "./hw.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  //"spider": "./xyq.jar;md5;5f97911cc7630b48ed3c69ba545818b5",
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
@@ -93,7 +93,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/55影视.json",
-      "jar": "./xyq.jar"
+      "jar": "./xyq.jar;md5;5f97911cc7630b48ed3c69ba545818b5"
     },
     {
       "key": "csp_动漫巴士",
