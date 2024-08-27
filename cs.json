@@ -83,14 +83,15 @@
       "changeable": 1
     },
     {
-      "key": "大米",
-      "name": "🤖┃大米┃影视",
+      "key": "csp_XYQHiker_55影视",
+      "name": "55影视(XYQH)",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XYQHiker",
+      “jar”: "./xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/dmxq.json"
+      "ext": "./lib/55影视.json"
     },
     {
       "key": "csp_动漫巴士",
