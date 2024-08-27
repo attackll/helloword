@@ -1,5 +1,6 @@
 {
-  "spider": "./hw.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  //"spider": "./hw.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  "spider": "./xyq.jar",
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
