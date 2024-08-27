@@ -91,7 +91,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/55影视.json",
-      "jar": ".xyq.jar"
+      "jar": "./xyq.jar"
     },
     {
       "key": "csp_动漫巴士",
