@@ -82,9 +82,9 @@
       "searchable": 1,
       "quickSearch": 1,
       //"changeable": 1,
-      "jar": "./hw.jar;md5;d295ec4dcf9a78f8441996009a88ecb0"
+      //"jar": "./hw.jar;md5;d295ec4dcf9a78f8441996009a88ecb0"
     },
-    {
+    /*{
       "key": "csp_XYQHiker_55影视",
       "name": "55影视(XYQH)",
       "type": 3,
@@ -94,7 +94,7 @@
       "filterable": 1,
       "ext": "./lib/55影视.json",
       "jar": "./xyq.jar;md5;5f97911cc7630b48ed3c69ba545818b5"
-    },
+    },*/
     {
       "key": "csp_动漫巴士",
       "name": "🤖┃动漫┃巴士",
