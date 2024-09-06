@@ -1,0 +1,46 @@
+{
+  "spider": "./hw.jar;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+  //"spider": "./xyq.jar;md5;5f97911cc7630b48ed3c69ba545818b5",
+  "sites": [
+    {
+      "key": "豆豆",
+      "name": "🅱豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+      //"ext": "./lib/dmbs.json"
+    },
+    {
+      "key": "csp_XYQHiker_55影视",
+      "name": "55影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/55影视.json",
+      "jar": "./xyq.jar;md5;5f97911cc7630b48ed3c69ba545818b5"
+    }
+  ]
+}
