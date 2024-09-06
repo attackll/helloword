@@ -32,16 +32,14 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "Dm84",
-      "name": "🚌巴士┃动漫",
+      "key": "csp_动漫巴士",
+      "name": "动漫巴士(XPath)",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "https://dm84.tv"
-      }
+      "filterable": 1,
+      "ext": "./lib/dmbs.json"
     },
     {
       "key": "csp_XYQHiker_55影视",
