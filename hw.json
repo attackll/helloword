@@ -58,8 +58,8 @@
       "quickSearch": 1
     },
     {
-      "key": "Lzi资源",
-      "name": "Lzi资源(net)",
+      "key": "lziapi",
+      "name": "量子资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
