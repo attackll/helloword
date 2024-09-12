@@ -58,6 +58,14 @@
       "quickSearch": 1
     },
     {
+      "key": "Lzi资源",
+      "name": "Lzi资源(net)",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "csp_XYQHiker_达达龟",
       "name": "达达龟(XYQH)",
       "type": 3,
